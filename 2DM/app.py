@@ -3,10 +3,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 import time
+import emoji
 from webdriver_manager.chrome import ChromeDriverManager
 
 contatos = ["Chatbot"]
-mensagem = ["oi a vida talvez seja um morango"]
+mensagem = ["⚠️⚠️Oi pessoal! Só passando pra avisar que o treinamento de AWS para a turma de Desenvolvimento de Sistemas do período da manhã vai ter início no dia 05/12/2022. Lembrando que o treinamento prepara os alunos para a realização da prova de certificação AWS Cloud Practitioner.✅ Contamos com a presença de todos!Acessem o link para mais informações: ✅ https://aws.amazon.com/pt/certification/certified-cloud-practitioner/?trk=9cd9d99c-3597-4b9b-b044-5b9213216efc&sc_channel=ps&s_kwcid=AL!4422!3!544685366846!e!!g!!aws%20cloud%20practitioner&ef_id=CjwKCAiApvebBhAvEiwAe7mHSEAB9PQMcpqS2fmT_hIDfP41rsHPVdRlVr1Htjrevqm6NP7jzLQUZBoCl7MQAvD_BwE:G:s&s_kwcid=AL!4422!3!544685366846!e!!g!!aws%20cloud%20practitioner"]
 midia = "C:/Users/SENAI/Pictures/Saved Pictures/Senai.jpg"
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
