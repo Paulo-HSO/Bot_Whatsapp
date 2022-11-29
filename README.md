@@ -19,15 +19,12 @@ $ git clone https://github.com/Paulo-HSO/Bot_Whatsapp
 
 ## Começando 🏁
 
-Para conseguir utilizar o bot, basta executar o arquivo python:
+Para conseguir utilizar o bot, basta executar o arquivo python *app.py*:
 
 
 ## Observações 📌
 
-Na [protipagem](https://www.figma.com/file/HMnsPsgZYC8ioiHXFI8HXE/Untitled?node-id=0%3A1) temos a lógica do cálculo criada e os campos de input definidos, podendo você fazer alterações nos preços dos produtos.
 
-
-Para agilizar o desenvolvimento, criamos estilos reutilizáveis na pasta *constants* dentro da *src*.
 
 
 ### Tecnologias :large_orange_diamond:
