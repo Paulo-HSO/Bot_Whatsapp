@@ -29,7 +29,7 @@ Para conseguir utilizar o bot, basta executar o arquivo python *app.py*:
 
 ### Tecnologias :large_orange_diamond:
 
-- [Python](https://www.python.org/downloads/).
+- [Python 🐍](https://www.python.org/downloads/).
 
 ### Criado por:
 
