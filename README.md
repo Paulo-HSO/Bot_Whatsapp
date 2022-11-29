@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Tech Cia" title="#Tech Cia" src="./icon.png" width="250px" />
+    <img alt="Tech Cia" title="#Tech Cia" src="./src/icon.png" width="250px" />
 </h1>
 
 <h4 align="center"> 
