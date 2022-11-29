@@ -24,6 +24,7 @@ Para conseguir utilizar o bot, basta executar o arquivo python *app.py*:
 
 ## Observações 📌
 
+A [Interface gráfica](https://docs.python.org/3/library/tkinter.html) da aplicação foi feita utilizando a biblioteca *Tkinter*.
 
 
 
