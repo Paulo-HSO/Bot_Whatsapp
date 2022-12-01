@@ -34,7 +34,7 @@ A [Interface gráfica](https://docs.python.org/3/library/tkinter.html) da aplica
 
 ### Criado por:
 
-- Mateus
+- Mateus Henrique
 - Gustavo Lima
 - Gustavo Alves
 - Paulo Henrique
